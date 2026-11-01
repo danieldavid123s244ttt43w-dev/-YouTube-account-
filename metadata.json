@@ -1,0 +1,6 @@
+{
+  "name": "AutoTube Studio",
+  "description": "Manage your YouTube channel with voice: record your voice to automatically generate scripts, synthesize audio and video content, and publish to YouTube.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
